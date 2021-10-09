@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Games 
 - 🌱 I’m currently learning Go, React
 
-- ❕ I am ready to study a new technology that I have not worked with.
+- ⚠️ I am ready to study a new technology that I have not worked with.
 
 
 <!---
