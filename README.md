@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adept-D
 - 👀 I’m interested in Programming, Games 
-- 🌱 I’m currently learning Go, React, JS, C++
+- 🌱 I’m currently learning ...
 
 
 <!---
